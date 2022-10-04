@@ -17,7 +17,7 @@ def load_image(file):
     return x
 
 def evaulate(x):
-    y = model.predict(np.array([x])
+    y = model.predict(np.array([x]))
     return y
 
 
