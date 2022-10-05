@@ -32,8 +32,7 @@ if page=='Hand Numbers':
             outputs[1].success(pred)
             
 
-elif page=='One Piece':
-    st.title('I am Whitebeard')
+elif page=='P':
     st.markdown('#The One Piece is real')
     st.image('https://preview.redd.it/pyu6zmnb07p61.png?width=644&format=png&auto=webp&s=ac1b61e83501f4f71b26cfa9d9c314d21bbf13d7')
 
